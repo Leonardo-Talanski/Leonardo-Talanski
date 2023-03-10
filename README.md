@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Leonardo Talanski <h1>
-  # título <h5>
-  olá meu nome é ......
+ 
+   Olá me chamo Leonardo tenho 24 anos,atualmente sou estudante do curso de programação <Ford Enter>
   
