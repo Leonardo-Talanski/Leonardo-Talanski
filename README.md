@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Leonardo Talanski <h1>
+## Olá, me chamo Leonardo Talanski ! <h1>
  
-   Opa tudo bem ?  tenho 24 anos, atualmente sou estudante do curso de Front-End através do curso < Ford Enter > no SENAI
+   Opa tudo bem ? Me chamo Leonardo, tenho 24 anos. atualmente sou estudante do curso de Front-End através do curso < Ford Enter > no SENAI
  
  🔭 Atualmente não estou trabalhando 
  
  🌱 Atualmente estou aprendendo Programar
+ 
+ ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
