@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 # Leonardo Talanski <h1>
  
-   Olá me chamo Leonardo tenho 24 anos, atualmente sou estudante do curso de programação de desenvolvimento Front-Endatravés do curso *<Ford Enter>*
+   Olá me chamo Leonardo tenho 24 anos, atualmente sou estudante do curso de programação de desenvolvimento Front-End através do curso *<Ford Enter>*
   
