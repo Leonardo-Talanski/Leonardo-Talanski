@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Olá, me chamo Leonardo Talanski ! <h1>
  
-   Opa tudo bem ? Me chamo Leonardo, tenho 24 anos. atualmente sou estudante do curso de Front-End através do curso < Ford Enter > no SENAI
+   Opa tudo bem ? Me chamo Leonardo, tenho 24 anos. atualmente sou estudante do curso de Front-End pelo programa < Ford Enter > no SENAI
  
  🔭 Atualmente não estou trabalhando 
  
