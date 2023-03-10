@@ -21,8 +21,7 @@ Here are some ideas to get you started:
  🔭 Atualmente não estou trabalhando 
  
  🌱 Atualmente estou aprendendo Programar
- 
- README.md![Snake animation](https://github.com/Leonardo-Talanski/Leonardo-Talanski/blob/output/github-contribution-grid-snake.svg)
+
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
  
