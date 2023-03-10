@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  🔭 Atualmente não estou trabalhando 
  
- 🌱 Atualmente estou aprendendo Programar
+ 🌱 Atualmente estou aprendendo Programar 
  
  😄 Sempre aprendendo
  
