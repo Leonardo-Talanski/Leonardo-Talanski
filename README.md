@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...ewewer
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 # Leonardo Talanski <h1>
  
    Olá me chamo Leonardo tenho 24 anos, atualmente sou estudante do curso de programação de desenvolvimento Front-End através do curso < Ford Enter >
+ 
+ . Atualmente estou estudando programação
+ 
   
