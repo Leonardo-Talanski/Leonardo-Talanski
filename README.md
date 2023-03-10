@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  
  🌱 Atualmente estou aprendendo Programar 
  
- 😄 Sempre aprendendo
+ 😄 Sempre aprendendo 
 
  
  ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
