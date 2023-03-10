@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 # Leonardo Talanski <h1>
  
-   Olá me chamo Leonardo tenho 24 anos, atualmente sou estudante do curso de Front-End através do curso < Ford Enter > no SENAI
+   Opa tudo bem ?  tenho 24 anos, atualmente sou estudante do curso de Front-End através do curso < Ford Enter > no SENAI
+ 
+ 🔭 Atualmente não estou trabalhando 
+ 🌱 Atualmente estou aprendendo Programar
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
  
  
  
