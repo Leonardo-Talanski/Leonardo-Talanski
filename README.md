@@ -24,14 +24,4 @@ Here are some ideas to get you started:
  
  😄 Sempre aprendendo 
 
-<<<<<<< HEAD
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-=======
- 
- ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
- 
-## Estou aprendendo
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="ithubusercontent.com/devicons/devicongithubusercontent.com/devicons/devicon/master/icon
->>>>>>> 2ccbfa9090ba6a66c2188196237251405b544e05
+[![LeonardoTalanski GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTalanski)](https://github.com/LeonardoTalanski/github-readme-stats)
