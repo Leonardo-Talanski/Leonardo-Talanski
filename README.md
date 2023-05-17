@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
 
   <div align="center">
-  ![gif github](https://github.com/Leonardo-Talanski/Leonardo-Talanski/assets/126731524/3ea5e6a6-129b-49e7-aa74-d32dce636714)
+  <img src="https://media.tenor.com/jR86Z21ZOH8AAAAM/block-naruto.gif"  width="300" height="169">
   </div>
  
 <div style="display: inline_block"> <br>
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
   <a href = "mailto:leonardo.e.t@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-talanski-88084b78/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+
+  <!--![gif github](https://github.com/Leonardo-Talanski/Leonardo-Talanski/assets/126731524/3ea5e6a6-129b-49e7-aa74-d32dce636714)
