@@ -30,7 +30,4 @@ Here are some ideas to get you started:
  
 ## Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" hithubusercontent.com/devicons/devicongithubusercontent.com/devicons/devicon/master/icon
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="ithubusercontent.com/devicons/devicongithubusercontent.com/devicons/devicon/master/icon
