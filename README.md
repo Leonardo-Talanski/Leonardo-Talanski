@@ -29,14 +29,6 @@ Here are some ideas to get you started:
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
 
-  <div align="center">
-  <img src="https://media.tenor.com/jR86Z21ZOH8AAAAM/block-naruto.gif" width="300" height="169">
-  </div>
-
-  <div align="center">
-  <img data-target="animated-image.replacedImage" alt="maid.gif?raw=true" class="AnimatedImagePlayer-animatedImage" src="https://github.com/miluluyo/photo_gallery/raw/master/maid.gif?raw=true" width="300" height="169" style="display: block; opacity: 1;">
-</div>
-
  
 <div style="display: inline_block"> <br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -45,10 +37,7 @@ Here are some ideas to get you started:
   
 </div>
 
-
-
-
- ##
+  ##
 
   <a href="https://www.instagram.com/leonardo_talanski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leonardo.e.t@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
