@@ -29,7 +29,9 @@ Here are some ideas to get you started:
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
 
+  <div align="center">
   ![gif github](https://github.com/Leonardo-Talanski/Leonardo-Talanski/assets/126731524/3ea5e6a6-129b-49e7-aa74-d32dce636714)
+  </div>
  
 <div style="display: inline_block"> <br>
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
