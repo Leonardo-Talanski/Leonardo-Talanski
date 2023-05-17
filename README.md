@@ -24,4 +24,19 @@ Here are some ideas to get you started:
  
  😄 Sempre aprendendo 
 
-[![LeonardoTalanski GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoTalanski)](https://github.com/LeonardoTalanski/github-readme-stats)
+<div>
+  <a href="https://github.com/Leonardo-Talanski">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
+ </div>
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
+ <div> 
+  <a href="https://www.instagram.com/leonardo_talanski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:leonardo.e.t@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-talanski-88084b78/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
