@@ -18,16 +18,16 @@ Here are some ideas to get you started:
  
    Opa tudo bem ? Me chamo Leonardo, tenho 25 anos. atualmente sou estudante do curso de Front-End pelo programa < Ford Enter > no SENAI
  
- 🔭 Atualmente não estou trabalhando 
+ 🌎 Dê uma olhada nos meus projetos: https://github.com/Leonardo-Talanski?tab=repositories
  
- 🌱 Atualmente estou aprendendo Programar 
+ 👨‍💻 Atualmente estou aprendendo Programar 
  
- 😄 Sempre aprendendo 
+ 🖥️ Sempre aprendendo 
 
 
   <a href="https://github.com/Leonardo-Talanski">
-  <img width="350px" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
-  <img width="312px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
+  <img width="450px" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
+  <img width="412px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
 
  
 <div style="display: inline_block"> <br>
