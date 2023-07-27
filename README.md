@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  🖥️ Sempre aprendendo 
 
 
-  <a href="https://github.com/Leonardo-Talanski">
+  <a href="https://github.com/">
   <img width="400px" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
   <img width="359px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
 
@@ -35,10 +35,6 @@ Here are some ideas to get you started:
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-          
-
-          
-  
 </div>
 
   ##
