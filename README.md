@@ -25,9 +25,11 @@ Here are some ideas to get you started:
  🖥️ Sempre aprendendo 
 
 
+ <div>
   <a href="https://github.com/Leonardo-Talanski">
-  <img width="400px" src ="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true">
-  <img width="359px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&langs_count=16&theme=blue-green">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
+  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
+</div>
 
  
 <div style="display: inline_block"> <br>
