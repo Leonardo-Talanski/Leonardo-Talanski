@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/Leonardo-Talanski">
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Talanski&theme=blue-green&hide_border=true"/>
-  <img width="359px" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Talanski&theme=blue-green&hide_border=true"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
  
