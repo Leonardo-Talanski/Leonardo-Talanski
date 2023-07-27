@@ -24,11 +24,10 @@ Here are some ideas to get you started:
  
  🖥️ Sempre aprendendo 
 
-
  <div>
   <a href="https://github.com/Leonardo-Talanski">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=tokyonight"/>
-  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=tokyonight"/>
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Talanski&theme=blue-green&hide_border=true"/>
+  <img width="359px" src="https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-Talanski&theme=blue-green&hide_border=true"/>
 </div>
 
  
