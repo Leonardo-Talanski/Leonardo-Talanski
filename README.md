@@ -19,6 +19,8 @@ Here are some ideas to get you started:
    Opa tudo bem ? Me chamo Leonardo, tenho 25 anos. atualmente sou estudante do curso de Front-End pelo programa < Ford Enter > no SENAI
  
  🌎 Dê uma olhada nos meus projetos: https://github.com/Leonardo-Talanski?tab=repositories
+
+ :mortar_board: Cursando Análise e Desenvolvimento de sistemas na FAM
  
  👨‍💻 Atualmente estou aprendendo Programar 
  
