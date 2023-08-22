@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  🌎 Dê uma olhada nos meus projetos: https://github.com/Leonardo-Talanski?tab=repositories
 
- :mortar_board: Cursando Análise e Desenvolvimento de sistemas na FAM
+ :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FAM
  
  👨‍💻 Atualmente estou aprendendo Programar 
  
