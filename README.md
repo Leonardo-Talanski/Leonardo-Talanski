@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/Leonardo-Talanski">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=chartreuse-dark"/>
-  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=chartreuse-dark"/>
+  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"> <br>    
   <img align="center" height="50px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
