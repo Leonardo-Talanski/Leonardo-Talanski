@@ -11,7 +11,7 @@
  🖥️ Sempre aprendendo 
 
  <div>
-  <a href="https://github.com/Leonardo-Talanski">
+  <a href="https://github.com/leonardo-talanski">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&count_private=true"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
  </div>
