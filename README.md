@@ -10,18 +10,15 @@
  
  🖥️ Sempre aprendendo 
 
- <div>
-  <a href="https://github.com/leonardo-talanski">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&theme=blue-green&show_icons=true&hide_border=true&layout=compact"/>
- </div>
+<br><br>
+<div>
+  <a href="https://github.com/jordanea-statute">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
+  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"> <br>    
+  <img align="center" height="50px" src =https://skillicons.dev/icons?i=vscode,javascript,git,github,html,css,nodejs,)(https://skillicons.dev)/></p>
 
- <div style="display: inline_block"><br>
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />  
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
- </div>
 
   ##
 
