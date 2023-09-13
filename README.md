@@ -12,7 +12,7 @@
 
 <br><br>
 <div>
-  <a href="https://github.com/jordanea-statute">
+  <a href="https://github.com/Leonardo-Talanski">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=jordanea-statute&show_icons=true&theme=tokyonight"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordanea-statute&layout=compact&theme=tokyonight"/>
 </div>
