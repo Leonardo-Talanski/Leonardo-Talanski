@@ -17,7 +17,7 @@
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"> <br>    
-  <img align="center" height="50px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,redhat,salesforce,aws)(https://skillicons.dev)/></p>
+  <img align="center" height="50px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,redhat,)(https://skillicons.dev)/></p>
 
 
   ##
