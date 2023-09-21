@@ -10,9 +10,6 @@
  
  🖥️ Sempre aprendendo 
 
- <img src="![1692639124332](https://github.com/Leonardo-Talanski/Leonardo-Talanski/assets/126731524/486c72d4-8346-44b2-a023-b91c9ab0d119)
-" alt="Girl in a jacket" width="500" height="600">
-
 <br><br>
 <div>
   <a href="https://github.com/Leonardo-Talanski">
