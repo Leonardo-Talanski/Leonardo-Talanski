@@ -10,7 +10,7 @@
  
  🖥️ Sempre aprendendo 
 
-<img src="/assets/wall.jpg" alt="Girl in a jacket" width="300" height="800">
+<img src="/assets/wall.jpg" alt="Girl in a jacket" width="800" height="400">
 
 <br><br>
 <div>
