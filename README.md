@@ -19,7 +19,7 @@
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <figure style="display: inline_block"><br>    
-  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/></p> 
+  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/> 
   <img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
 </figure>
                 
