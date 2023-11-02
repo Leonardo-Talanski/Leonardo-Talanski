@@ -19,8 +19,9 @@
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"> <br>    
-  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,redhat)(https://skillicons.dev)/></p>
-
+  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/></p> 
+  <i class="devicon-redhat-plain colored"></i>
+          
   ##
 
   <a href="https://www.instagram.com/leonardo_talanski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
