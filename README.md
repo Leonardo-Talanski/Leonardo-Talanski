@@ -18,11 +18,10 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=chartreuse-dark"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
-<div style="display: inline_block"> <br>    
+<div style="display: inline_block"><br>    
   <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/></p> 
-  
-   
- <img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" />
+  <img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
+</div>
           
                
   ##
