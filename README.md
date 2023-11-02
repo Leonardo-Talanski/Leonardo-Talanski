@@ -20,8 +20,8 @@
 </div>
 <div style="display: inline_block"> <br>    
   <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/></p> 
-  <i class="devicon-redhat-plain colored"></i>
-          
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+               
   ##
 
   <a href="https://www.instagram.com/leonardo_talanski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
