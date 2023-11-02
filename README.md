@@ -19,8 +19,7 @@
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"> <br>    
-  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,)(https://skillicons.dev)/></p>
-
+  <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,redhat)(https://skillicons.dev)/></p>
 
   ##
 
@@ -28,6 +27,5 @@
   <a href = "mailto:leonardo.e.t@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/leonardo-talanski-88084b78/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-
   <!--![gif github](https://github.com/Leonardo-Talanski/Leonardo-Talanski/assets/126731524/3ea5e6a6-129b-49e7-aa74-d32dce636714)
  
