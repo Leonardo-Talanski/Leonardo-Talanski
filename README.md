@@ -18,12 +18,11 @@
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=chartreuse-dark"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
-<div style="display: inline_block"><br>    
+<figure style="display: inline_block"><br>    
   <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/></p> 
   <img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
-</div>
-          
-               
+</figure>
+                
   ##
 
   <a href="https://www.instagram.com/leonardo_talanski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
