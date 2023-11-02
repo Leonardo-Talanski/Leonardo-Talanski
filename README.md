@@ -20,7 +20,7 @@
 </div>
 <figure style="display: inline_block"><br>    
   <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/> 
-  <img align="center" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
+  <img align="center" height="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg"/>
 </figure>
                 
   ##
