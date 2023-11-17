@@ -15,7 +15,8 @@
 <br><br>
 <div>
   <a href="https://github.com/Leonardo-Talanski">
-  
+
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=chartreuse-dark"/>
   <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
 </div>
 <figure style="display: inline_block"><br>    
