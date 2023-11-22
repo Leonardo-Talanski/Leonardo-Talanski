@@ -10,14 +10,13 @@
  
  🖥️ Sempre aprendendo 
 
-<img src="/assets/wall.jpg" alt="Girl in a jacket" width="1500" height="350">
-
 <br><br>
 <div>
   <a href="https://github.com/Leonardo-Talanski">
+ | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeonardoTalanski&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeonardoTalanski&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Talanski&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Talanski&show_icons=true&theme=chartreuse-dark"/>
-  <img width="359px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-Talanski&layout=compact&theme=chartreuse-dark"/>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeonardoTalanski&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoTalanski&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 </div>
 <figure style="display: inline_block"><br>    
   <img align="center" height="45px" src =https://skillicons.dev/icons?i=html,css,javascript,nodejs,(https://skillicons.dev)/> 
