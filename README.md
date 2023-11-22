@@ -9,8 +9,7 @@
  👨‍💻 Atualmente Estudando : Cloud Computing, RedHat e Salesforce.
  
  🖥️ Sempre aprendendo 
-
-<br><br>
+<br>
 <div>
    
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leonardo-Talanski&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonardo-Talanski&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Talanski&theme=nord_dark) |
