@@ -26,7 +26,7 @@
    <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
    <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat.svg">
+   <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/red-hat.svg">
 </div>
                 
   ##
