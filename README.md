@@ -12,7 +12,7 @@
 
 <br><br>
 <div>
-  <a href="https://github.com/Leonardo-Talanski">
+   
  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leonardo-Talanski&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Leonardo-Talanski&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leonardo-Talanski&theme=nord_dark) |
 | :-: | :-: | :-: |
 
