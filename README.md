@@ -1,12 +1,12 @@
 # Hi there 👋
 
-   Opa tudo bem ? Me chamo Leonardo, tenho 25 anos. atualmente sou estudante do curso de Front-End pelo programa < Ford Enter > no SENAI
+   Opa tudo bem ? Me chamo Leonardo, tenho 25 anos. Participante do curso de Front-End pelo programa < Ford Enter > no SENAI
  
  🌎 Dê uma olhada nos meus projetos: https://github.com/Leonardo-Talanski?tab=repositories
 
  :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FAM
  
- 👨‍💻 Atualmente Estudando : Cloud Computing, RedHat e Salesforce.
+ 👨‍💻 Atualmente Estudando : Cloud Computing e RedHat.
  
  🖥️ Sempre aprendendo 
 <br>
