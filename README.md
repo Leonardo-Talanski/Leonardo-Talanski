@@ -6,7 +6,7 @@
 
  :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FAM
  
- 👨‍💻 Atualmente Estudando : Cloud Computing e RedHat.
+ 👨‍💻 Atualmente Estudando : Cloud Computing.
  
  🖥️ Sempre aprendendo 
 <br>
