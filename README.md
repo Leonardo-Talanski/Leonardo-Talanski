@@ -1,7 +1,5 @@
 # Hi there 👋
 
-   Opa tudo bem ? Me chamo Leonardo, tenho 25 anos. Atualmente trabalhando com computaçao em nuvem. 
- 
  🌎 Dê uma olhada nos meus projetos: https://github.com/Leonardo-Talanski?tab=repositories
 
  :mortar_board: Cursando Análise e Desenvolvimento de Sistemas na FAM
